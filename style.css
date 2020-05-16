@@ -1459,15 +1459,6 @@ img {
   .single-pie-bar {
     margin-bottom: 30px; } }
 
-.owl-carousel {
--ms-touch-action: pan-y;
-touch-action: pan-y;
-}
-or
-.owl-carousel {
--ms-touch-action: none;
-touch-action: none;
-}
 /* The end */
 
 /*# sourceMappingURL=style.css.map */
